@@ -1,0 +1,53 @@
+REAL PHOTOS KAISA ADD KAREIN
+============================
+
+1) Google pe search karke image DOWNLOAD karo (Save image as)
+2) File ka NAAM bilkul yeh rakho (extension .jpg)
+3) Is folder mein paste karo:
+   divyanshu-gangwar/public/images/
+
+=== AAPKI PHOTO (already hai) ===
+divyanshu-gangwar.jpg
+
+=== 9 MATA (Navratri) ===
+shailaputri.jpg
+brahmacharini.jpg
+chandraghanta.jpg
+kushmanda.jpg
+skandamata.jpg
+katyayani.jpg
+kalaratri.jpg
+mahagauri.jpg
+siddhidatri.jpg
+
+Google search examples:
+  "Maa Shailaputri"  → save as shailaputri.jpg
+  "Maa Brahmacharini" → brahmacharini.jpg
+  ... same for each
+
+=== TYOHAR ===
+makar-sankranti.jpg
+basant-panchami.jpg
+maha-shivratri.jpg
+holi.jpg
+ram-navami.jpg
+hanuman-jayanti.jpg
+raksha-bandhan.jpg
+janmashtami.jpg
+ganesh-chaturthi.jpg
+navratri.jpg
+dussehra.jpg
+karwa-chauth.jpg
+dhanteras.jpg
+diwali.jpg
+govardhan.jpg
+bhai-dooj.jpg
+christmas.jpg
+new-year.jpg
+
+Tip: Square photo (1:1) best dikhegi circle mein.
+JPG ya PNG dono chalenge agar naam same ho (.jpg prefer).
+
+Photo add ke baad:
+  npm run dev
+  page refresh (Ctrl+F5)
